@@ -7,4 +7,4 @@ sudo apt-get install notify-osd
 
 
 
-ref:https://ubuntuforums.org/showthread.php?t=2205981
+ref: https://ubuntuforums.org/showthread.php?t=2205981
